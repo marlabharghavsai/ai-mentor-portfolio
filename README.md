@@ -28,3 +28,17 @@
    all missing fields. No API call is wasted. Caller catches cleanly.
 
 ## Sample résumés processed: 3 / 3 successful
+
+
+
+## Day 4 — Productivity Sprint
+
+Company: TCS
+
+Time: 45 minutes
+
+### Edit Notes
+
+1. Gamma showed hiring 50,000 freshers. Source said 40,000. Edited.
+2. Gamma listed Kubernetes as mandatory. Changed to optional.
+3. Replaced generic cover title with TCS-specific title.
